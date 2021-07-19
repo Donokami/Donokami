@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Conobi</h1>
+<h1 align="center">Hello friend 👋, I'm Conobi</h1>
 <h3 align="center">A french fullstack developer interested in a lot of thing</h3>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=donokami&label=Lost%20netizens&color=0e75b6&style=flat-square" alt="donokami" /></p>
 
 - 🌱 I’m currently learning **Tailwind CSS**
 
@@ -49,6 +51,6 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
 
-## Achievements
+## Cool stats
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=donokami&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></p>
