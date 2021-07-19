@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Conobi</h1>
-<h3 align="center">A fullstack developer interested in</h3>
+<h3 align="center">A french fullstack developer interested in a lot of thing</h3>
 
 - 🌱 I’m currently learning **Tailwind CSS**
 
 - 🤝 I’m looking for help with [Politiscales](https://github.com/Donokami/politiscales)
 
-- 📫 How to reach me **t.me/conobi**
+- 📫 Reach me on [Telegram](https://t.me/conobi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
