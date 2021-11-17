@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=donokami&label=Lost%20netizens&color=0e75b6&style=flat-square" alt="donokami" /></p>
 
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning at **42 school**
 
 - 🤝 I’m looking for help with [Politiscales](https://github.com/Donokami/politiscales)
 
