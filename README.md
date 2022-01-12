@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning at **42 school**
 
-- 🤝 I’m looking for help with [Politiscales](https://github.com/Donokami/politiscales)
+- 🤝 I’m looking for help with [Politiscales](https://github.com/Donokami/politiscales) and [4242.tech](https://github.com/Donokami/4242.tech)
 
 - 📫 Reach me on [Telegram](https://t.me/conobi)
 
@@ -54,3 +54,4 @@
 ## Cool stats
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=donokami&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></p>
+<p align="center"><img src="https://kiyo.ooo/f/42badge.php" alt="42 badge" /></p>
